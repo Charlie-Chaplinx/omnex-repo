@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: all
 Maintainer: OX-CODEX <ox-codex@omnex.dev>
 Filename: ./simux.deb
-Size: 796
-MD5sum: 373434a03a8b2c1a105493c42dffe0ca
-SHA1: 5dcbf67a00460b36833425e92f3b81e9f662fc21
-SHA256: 1918af714eff9477f108ed4809b1de98833ecc1eb02737a9cd72d48978b63d59
+Size: 2644
+MD5sum: 8148b0ec066ea9b85936f614d84e4413
+SHA1: e980afd2de0dde2e5c17abb1affe7f7139e72022
+SHA256: 7dc57e509a1544359db84199147f266df6587a216604558119f059ad9eff9e72
 Section: utils
 Priority: optional
 Description: Terminal ASCII Banner Engine for Termux by OX-CODEX

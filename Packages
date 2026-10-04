@@ -2,6 +2,10 @@ Package: simux
 Version: 1.0
 Architecture: all
 Maintainer: OX-CODEX
-Filename: simux.deb
-Size: 2048
+Filename: ./simux.deb
+Size: 2648
+MD5sum: 2ab3034bfa5c2e50b93df7e379366d97
+SHA1: 7f30fa01a71ec2703c83c190100069a3d6791706
+SHA256: e660fbe1299e5b9a4bad03bb4a6986dc549d521e7589ed476347f5a6971690cb
 Description: Advanced ASCII Banner Engine developed by CODEX TEAM
+
